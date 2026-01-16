@@ -12,9 +12,11 @@ fnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeic
 
 fnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinvvvvvfnoernvoicawmeiciweanmofxmcwmqinvvfnoernvoicawmeiciweanmofxmcwmqinvvfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinvvekrignwrmie;oxo;nf3onwoe1ksjdnvlrthslbgsnavadnvjeofjqpwkfqwofeaw
 
-*SIX SEVEN* "*" Single star on each side of the word = *Italic*
-**SIX SEVENNNN** "**" Two stars on each side of the word = **BOLD**
-***SIX SEVEEENNNNnn*** "***" Three stars on each side of the word = ***BOLD Italic***
+##TEXT STYLES
+
+- *SIX SEVEN* "*" Single star on each side of the word = *Italic*
+- **SIX SEVENNNN** "**" Two stars on each side of the word = **BOLD**
+- ***SIX SEVEEENNNNnn*** "***" Three stars on each side of the word = ***BOLD Italic***
 
 # Ron's Shopping List
 - Chicken
@@ -22,3 +24,10 @@ fnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeiciweanmofxmcwmqinfnoernvoicawmeic
 - Milk
 - Bread
 
+## How to attach a link
+Use 
+- [] for name of the link in the submitted file
+- () for link itself
+
+  For example [Youtube](https://www.youtube.com/)
+  
