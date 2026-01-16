@@ -30,4 +30,8 @@ Use
 - () for link itself
 
   For example [Youtube](https://www.youtube.com/)
+
+  ## How to upload/include image ![]()
+  ![me rn](https://www.pinterest.com/pin/295971006775812059/)
+  
   
